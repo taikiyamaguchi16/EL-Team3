@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/ScreenBreack/Main.unity
+    guid: e2ecd618b6e344a45a49268f1a54f41f
+  - enabled: 1
+    path: Assets/ScreenBreack/ScreenBreak.unity
+    guid: fe14219d017a6324487c7b03dfbe7e23
   m_configObjects: {}
